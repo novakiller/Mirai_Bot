@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xf2pJ1y+HJIFQd67Cn52hTywBISOdJ8UZpt2xOL5ka4PxXHoRyUAeqMfk47yA/zQOpA+WNW6WEgpmfMDIOcG+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\Mirai_Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\novas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
