@@ -1,0 +1,33 @@
+# Docker
+# Build a Docker image
+# https://docs.microsoft.com/azure/devops/pipelines/languages/docker
+
+trigger:
+- master
+
+resources:
+- repo: self
+
+variables:
+  tag: '$(Build.BuildId)'
+
+stages:
+- stage: Build
+  displayName: Build image for ARM32
+  jobs:
+  - job: BuildArm32
+    displayName: Build Arm 32 on Self-Hosted
+    pool:
+      name: Arm32
+    steps:
+    - task: Docker@2
+      displayName: Build image for ARM32 on Self-Host
+      inputs:
+        containerRegistry: 'DockerHub'
+        repository: 'novakiller/Mirai_Bot'
+        command: 'buildAndPush'
+        dockerfile: '$(Build.SourcesDirectory)/Mirai_Bot/Dockerfile'
+        buildContext: '$(Build.SourcesDirectory)/Mirai_Bot/'
+        tags: |
+          arm32.$(tag)
+          arm32
