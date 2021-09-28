@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\novas\Documents\Programming\Mirai_Bot\Mirai_Bot\Properties\PublishProfiles\https___hub.docker.com_repository_docker_novakiller_miraibot.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

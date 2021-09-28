@@ -1,0 +1,7 @@
+C:\Users\novas\Documents\Programming\Mirai_Bot\Mirai_Bot\obj\Docker\publish\Mirai_Bot
+C:\Users\novas\Documents\Programming\Mirai_Bot\Mirai_Bot\obj\Docker\publish\appsettings.Development.json
+C:\Users\novas\Documents\Programming\Mirai_Bot\Mirai_Bot\obj\Docker\publish\appsettings.json
+C:\Users\novas\Documents\Programming\Mirai_Bot\Mirai_Bot\obj\Docker\publish\Mirai_Bot.dll
+C:\Users\novas\Documents\Programming\Mirai_Bot\Mirai_Bot\obj\Docker\publish\Mirai_Bot.deps.json
+C:\Users\novas\Documents\Programming\Mirai_Bot\Mirai_Bot\obj\Docker\publish\Mirai_Bot.runtimeconfig.json
+C:\Users\novas\Documents\Programming\Mirai_Bot\Mirai_Bot\obj\Docker\publish\Mirai_Bot.pdb
