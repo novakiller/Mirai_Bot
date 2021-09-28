@@ -26,7 +26,7 @@ stages:
         containerRegistry: 'DockerHub'
         repository: 'novakiller/Mirai_Bot'
         command: 'buildAndPush'
-        dockerfile: '$(Build.SourcesDirectory)/Mirai_Bot/Dockerfile'
+        dockerfile: '$(Build.SourcesDirectory)/Mirai_Bot/Mirai_Bot/Dockerfile'
         buildContext: '$(Build.SourcesDirectory)/Mirai_Bot/'
         tags: |
           arm32.$(tag)
