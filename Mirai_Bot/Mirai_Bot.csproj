@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>ee4f3a83-fc8d-43d1-962d-369b5537e175</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <EnableDynamicLoading>true</EnableDynamicLoading>
   </PropertyGroup>
 
