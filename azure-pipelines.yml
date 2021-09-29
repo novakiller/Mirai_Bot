@@ -13,21 +13,21 @@ variables:
 
 stages:
 - stage: Build
-  displayName: Build image for ARM32
+  displayName: Build image for ARM64
   jobs:
-  - job: BuildArm32
-    displayName: Build Arm 32 on Self-Hosted
+  - job: BuildArm64
+    displayName: Build Arm 64 on Self-Hosted
     pool:
-      name: Arm32
+      name: Arm64
     steps:
     - task: Docker@2
-      displayName: Build image for ARM32 on Self-Host
+      displayName: Build image for ARM64 on Self-Host
       inputs:
         containerRegistry: 'DockerHub'
         repository: 'novakiller/Mirai_Bot'
         command: 'buildAndPush'
-        dockerfile: '$(Build.SourcesDirectory)/Mirai_Bot/Dockerfile Arm32'
+        dockerfile: '$(Build.SourcesDirectory)/Mirai_Bot/Dockerfile'
         buildContext: '$(Build.SourcesDirectory)/Mirai_Bot/'
         tags: |
-          arm32.$(tag)
-          arm32
+          arm64.$(tag)
+          arm64
