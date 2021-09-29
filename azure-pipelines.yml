@@ -24,7 +24,7 @@ stages:
       displayName: Build image for ARM64 on Self-Host
       inputs:
         containerRegistry: 'DockerHub'
-        repository: 'novakiller/Mirai_Bot'
+        repository: 'novakiller/miraibot'
         command: 'buildAndPush'
         dockerfile: '$(Build.SourcesDirectory)/Mirai_Bot/Dockerfile'
         buildContext: '$(Build.SourcesDirectory)/Mirai_Bot/'
