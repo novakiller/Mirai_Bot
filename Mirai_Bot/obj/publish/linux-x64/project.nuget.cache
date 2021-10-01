@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vaQVe7BpJZSpAyKFWhKhzV8OFHU1ZUzheVS8WZo1GVTuw7qHdbMOPKwJMwbKVhKb5F4WyXFTqQfjheCaM1oliw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\Mirai_Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\novas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\novas\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.0-rc.1.21451.13\\microsoft.netcore.app.runtime.linux-x64.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\novas\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.0-rc.1.21451.13\\microsoft.netcore.app.host.linux-x64.6.0.0-rc.1.21451.13.nupkg.sha512",
+    "C:\\Users\\novas\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.0-rc.1.21452.15\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.0-rc.1.21452.15.nupkg.sha512"
+  ],
+  "logs": []
+}

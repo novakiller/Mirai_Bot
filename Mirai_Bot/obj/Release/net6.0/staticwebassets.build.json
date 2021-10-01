@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HhzZmKXBtxJaCMvyA+2ltEWjnh0Ofl3es9Qh6nZ+ZQI=",
+  "Hash": "sVaDK4gzMElvTDcYwZPUW4dVNgIMKz9Fr1TxelCd8ks=",
   "Source": "Mirai_Bot",
   "BasePath": "_content/Mirai_Bot",
   "Mode": "Default",
@@ -17,10 +17,10 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-arm\\scopedcss\\bundle\\Mirai_Bot.styles.css",
+      "Identity": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\bundle\\Mirai_Bot.styles.css",
       "SourceId": "Mirai_Bot",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-arm\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\bundle\\",
       "BasePath": "_content/Mirai_Bot",
       "RelativePath": "Mirai_Bot.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-arm\\scopedcss\\bundle\\Mirai_Bot.styles.css"
+      "OriginalItemSpec": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\bundle\\Mirai_Bot.styles.css"
     },
     {
-      "Identity": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-arm\\scopedcss\\projectbundle\\Mirai_Bot.bundle.scp.css",
+      "Identity": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\projectbundle\\Mirai_Bot.bundle.scp.css",
       "SourceId": "Mirai_Bot",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-arm\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Mirai_Bot",
       "RelativePath": "Mirai_Bot.bundle.scp.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-arm\\scopedcss\\projectbundle\\Mirai_Bot.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\obj\\Release\\net6.0\\linux-x64\\scopedcss\\projectbundle\\Mirai_Bot.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\novas\\Documents\\Programming\\Mirai_Bot\\Mirai_Bot\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
